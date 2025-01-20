@@ -1,0 +1,8 @@
+.devcontainer/
+.vscode/
+build/
+components/
+managed_components/
+sdkconfig
+sdkconfig.old
+dependencies.lock
